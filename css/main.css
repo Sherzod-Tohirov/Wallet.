@@ -449,6 +449,7 @@ img {
   flex-direction: column;
   row-gap: 30px;
   width: 151px;
+  margin-left: 115px;
 }
 
 .copyright {
